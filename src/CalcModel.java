@@ -8,6 +8,10 @@ public class CalcModel {
 		calcValue = firstNum + secondNum;
 	}
 	
+	public void subTwoValues (int firstNum, int secondNum){
+		calcValue = firstNum + secondNum;
+	}
+	
 	public int getValue(){
 		return calcValue;
 	}
